@@ -1,0 +1,9 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "Dummy project for Remote Dev Assistant demo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
