@@ -1,6 +1,6 @@
 // auth.js — User authentication module
 
-const SESSION_TIMEOUT = 60; // minutes
+const SESSION_TIMEOUT = 30; // minutes
 
 function login(username, password) {
   if (!username || !password) {
